@@ -10,7 +10,7 @@
 - static / dynamic libraries, linking - разлики, какво става в препроцесор, как се "връзват" библиотеките
 - потоци, процеси - разликите между тях
 - mutex, semaphor, map - основните им принципи
-- conditions (conditional statements(?))
+- Race condition / conditions
 - какво е прекъсването на едноядрена система? - какво става и кой поема управлението в подобните моменти
 - какво е #include #define - как работи препроцессор, макроси, компилационни процеси
 - memory management/paddings
